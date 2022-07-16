@@ -38,13 +38,19 @@ Open the code editor and make sure that you have **live preview** extetion downl
 
 ## Links
 
-Website URL:
+Website URL: <https://fylo-dark-themeee.netlify.app/>
 
-Solution URL:
+Solution URL: Coming soon
 
 # **3. Screenshots 📷**
 
-I will post it later.
+## Desktop View
+
+![](./images/screenshot/fylo-desktopView.png)
+
+## Mobile View
+
+![](./images/screenshot/fylo-mobileView.png)
 
 # **4. My process ✨**
 
