@@ -9,7 +9,7 @@ This project is a solution for **Frontend Mentor challenge**. Primary goal of th
 - ## [Fylo dark theme landing page](#fylo)
   - [1. Table of content](#table-of-content) 📝
   - [2. Overview](#overview) 🎯
-    - [The challanges](#the-challenges)
+    - [The challenges](#the-challenges)
     - [How to run the projects](#how-to-run-the-projects)
     - [Links](#links)
   - [3. Screenshots](#screenshots) 📷
