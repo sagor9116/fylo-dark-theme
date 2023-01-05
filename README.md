@@ -19,7 +19,8 @@ This project is a solution for **Frontend Mentor challenge**. Primary goal of th
     - [Useful resources](#useful-resources)
   - [5. Author](#author) 🙋🏻
 
-# **2. Overview 🎯**
+
+** 2.** # Overview **🎯*
 
 ## The challanges
 
