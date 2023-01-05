@@ -20,7 +20,7 @@ This project is a solution for **Frontend Mentor challenge**. Primary goal of th
   - [5. Author](#author) 🙋🏻
 
 
-** 2.** # Overview **🎯*
+** 2.** # Overview **🎯**
 
 ## The challanges
 
